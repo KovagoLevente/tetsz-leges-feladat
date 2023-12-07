@@ -1,1 +1,1 @@
-sziasztok a nevem kovi
+sziasztok a nevem kovi.
