@@ -1,0 +1,1 @@
+sziasztok a nevem kovi
