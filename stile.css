@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: cadetblue;
   }
   
   ul {
@@ -11,6 +12,7 @@ body {
     position: fixed;
     height: 100%;
     overflow: auto;
+    background-color: rgb(42, 97, 99);
   }
   
   li a {
@@ -21,7 +23,7 @@ body {
   }
   
   li a.active {
-    background-color: #04AA6D;
+    background-color: #06130e;
     color: white;
   }
   
